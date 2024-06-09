@@ -1,5 +1,5 @@
-- [nolze/msoffcrypto-tool](https://github.com/nolze/msoffcrypto-tool) ⭐️500+
-- [nolze/tiny-wifi-analyzer](https://github.com/nolze/tiny-wifi-analyzer) ⭐️65+
+- [nolze/msoffcrypto-tool](https://github.com/nolze/msoffcrypto-tool) ⭐️520+
+- [nolze/tiny-wifi-analyzer](https://github.com/nolze/tiny-wifi-analyzer) ⭐️75+
 - [nolze/epoche](https://github.com/nolze/epoche) ⭐️15+
 - [nolze/mmmapper](https://github.com/nolze/mmmapper) ⭐️10+
 - [nolze/awesome-live-opensource-webapps](https://github.com/nolze/awesome-live-opensource-webapps) ⭐️5+
